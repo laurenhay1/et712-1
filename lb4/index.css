@@ -1,0 +1,20 @@
+}
+      h4{
+        color:purple;
+      }
+      body{
+        background:lightcoral;
+      }
+      div{
+        width:22%;
+        height:22% ;
+        background-color:bisque;
+      
+      }
+
+      #dice{
+        width:22%;
+        height:22% ;
+        background-color:aquamarine;
+        border-color:brown;
+      }
